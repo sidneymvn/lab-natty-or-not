@@ -27,7 +27,7 @@ O projeto utilizou criatividade, planejamento e ferramentas digitais para entreg
 ## 🚀 Resultados
 Os resultados refletem um e-book envolvente e informativo, que une conteúdo de qualidade, design visual atrativo e uma abordagem criativa sobre o universo do café.
 
-[LINK PARA O E-BOOK AQUI]
+[LINK PARA O E-BOOK AQUI](https://github.com/sidneymvn/lab-natty-or-not/blob/main/e-book_cafe.pdf)
 
 ## 💭 Reflexão (Opcional)
 Este projeto demonstra como a combinação de criatividade, tecnologia e conhecimento pode transformar uma ideia simples em um material inspirador e significativo.
